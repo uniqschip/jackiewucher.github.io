@@ -1,0 +1,61 @@
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="jackiewucher@gmail.com" resolutions="1x" timestamp="1522705939721">
+  <folder name="css">
+    <file name="site_global.css" crc="4139002398"/>
+    <file name="sound_design.css" crc="4105310095" ref="sound_design"/>
+    <file name="index.css" crc="123627970" ref="index"/>
+    <file name="production.css" crc="99285687" ref="production"/>
+    <file name="photo_manipulation.css" crc="4289462253" ref="photo_manipulation"/>
+    <file name="installations.css" crc="244511372" ref="installations"/>
+    <file name="video_editing.css" crc="168855564" ref="video_editing"/>
+    <file name="composition.css" crc="92979443" ref="composition"/>
+  </folder>
+  <folder name="assets">
+    <file name="short-copy_1.mp4" crc="1728095" seo="true" mt="1522272226000"/>
+    <file name="short.mp4" crc="4289479575" seo="true" mt="1522268594000"/>
+    <file name="airvrbo.mp4" crc="4062412068" seo="true" mt="1518290475000"/>
+    <file name="styles.css" crc="3873632866" seo="true" mt="1522704628000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:phone>home-copy:phone>music-composition-recording-production:phone>video-editing:phone>music-videos:phone>photo-manipulation:phone>photo---video-services:phone>interactive-installations:index:composition:sound_design:video_editing:production:photo_manipulation:installations"/>
+    <file name="museutils.js" crc="340535759" ref="phone>index:phone>home-copy:phone>music-composition-recording-production:phone>video-editing:phone>music-videos:phone>photo-manipulation:phone>photo---video-services:phone>interactive-installations:index:composition:sound_design:video_editing:production:photo_manipulation:installations"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:phone>home-copy:phone>music-composition-recording-production:phone>video-editing:phone>music-videos:phone>photo-manipulation:phone>photo---video-services:phone>interactive-installations:index:composition:sound_design:video_editing:production:photo_manipulation:installations"/>
+    <file name="museconfig.js" crc="310584261" ref="phone>index:phone>home-copy:phone>music-composition-recording-production:phone>video-editing:phone>music-videos:phone>photo-manipulation:phone>photo---video-services:phone>interactive-installations:index:composition:sound_design:video_editing:production:photo_manipulation:installations"/>
+    <file name="jquery.watch.js" crc="51536988" ref="phone>index:phone>home-copy:phone>music-composition-recording-production:phone>video-editing:phone>music-videos:phone>photo-manipulation:phone>photo---video-services:phone>interactive-installations:index:composition:sound_design:video_editing:production:photo_manipulation:installations"/>
+    <file name="require.js" crc="7928878" ref="phone>index:phone>home-copy:phone>music-composition-recording-production:phone>video-editing:phone>music-videos:phone>photo-manipulation:phone>photo---video-services:phone>interactive-installations:index:composition:sound_design:video_editing:production:photo_manipulation:installations"/>
+  </folder>
+  <folder name="images">
+    <file name="free cover.jpg" crc="3817866020" seo="true" ref="photo_manipulation">
+      <caption webpage="photo_manipulation" alt=""/>
+    </file>
+    <file name="kermit.jpg" crc="48871881" seo="true" ref="photo_manipulation">
+      <caption webpage="photo_manipulation" alt=""/>
+    </file>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="photo---video-services.css" crc="62426684" ref="phone>photo---video-services"/>
+      <file name="index.css" crc="62426684" ref="phone>index"/>
+      <file name="home-copy.css" crc="472113847" ref="phone>home-copy"/>
+      <file name="photo-manipulation.css" crc="62426684" ref="phone>photo-manipulation"/>
+      <file name="music-composition-recording-production.css" crc="62426684" ref="phone>music-composition-recording-production"/>
+      <file name="interactive-installations.css" crc="62426684" ref="phone>interactive-installations"/>
+      <file name="music-videos.css" crc="62426684" ref="phone>music-videos"/>
+      <file name="video-editing.css" crc="62426684" ref="phone>video-editing"/>
+    </folder>
+    <file name="index.html" crc="292796980" seo="true" mt="1522701448029" redirect="false"/>
+    <file name="home-copy.html" crc="404966118" seo="true" mt="1522701448027" redirect="true"/>
+    <file name="music-composition-recording-production.html" crc="147156808" seo="true" mt="1522697464324" redirect="false"/>
+    <file name="video-editing.html" crc="3999635634" seo="true" mt="1522697635443" redirect="false"/>
+    <file name="music-videos.html" crc="474899163" seo="true" mt="1522697541010" redirect="false"/>
+    <file name="photo-manipulation.html" crc="3931946723" seo="true" mt="1522697637670" redirect="false"/>
+    <file name="photo---video-services.html" crc="20230670" seo="true" mt="1522697537409" redirect="false"/>
+    <file name="interactive-installations.html" crc="85920066" seo="true" mt="1522697522788" redirect="false"/>
+  </folder>
+  <file name="index.html" crc="4043817599" seo="true" mt="1522701780935" redirect="true"/>
+  <file name="composition.html" crc="184900947" seo="true" mt="1522701836418" redirect="true"/>
+  <file name="sound_design.html" crc="3971293711" seo="true" mt="1522701864317" redirect="true"/>
+  <file name="video_editing.html" crc="4206432359" seo="true" mt="1522703597747" redirect="true"/>
+  <file name="production.html" crc="485094962" seo="true" mt="1522701891566" redirect="true"/>
+  <file name="photo_manipulation.html" crc="4277005819" seo="true" mt="1522704961135" redirect="true"/>
+  <file name="installations.html" crc="193326637" seo="true" mt="1522701976113" redirect="true"/>
+</manifest>
